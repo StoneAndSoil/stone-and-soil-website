@@ -1,0 +1,4277 @@
+{
+  "generated": "2026-10-08",
+  "sourceEntries": 118,
+  "timelineEntries": 121,
+  "sourceImages": 714,
+  "uniqueImages": 484,
+  "entries": [
+    {
+      "id": "update-1",
+      "title": "Eisenerzmine als letzter Umsetzungsschritt",
+      "date": "2026-10-08",
+      "images": [
+        {
+          "image": "assets/updates/e72af5d9cba26489c55b.webp",
+          "source": "Documentation/Screenshots/Eisenerzmine_Assetvorschau.png",
+          "date": null,
+          "kind": "Assetvorschau",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-2",
+      "title": "Schneiderrezepte und Paladin-Grundfähigkeit",
+      "date": "2026-10-02",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-3",
+      "title": "Ausrüstungsstufen",
+      "date": "2026-09-26",
+      "images": [
+        {
+          "image": "assets/updates/2c4f9f5c37e86185c9ed.webp",
+          "source": "Documentation/Screenshots/Berufsausrüstung_Allrounder_L1_Assetvorschau.png",
+          "date": null,
+          "kind": "Assetvorschau",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/384d450a12286cbb9b14.webp",
+          "source": "Documentation/Screenshots/Berufsausrüstung_Schneider_L1_Assetvorschau.png",
+          "date": null,
+          "kind": "Assetvorschau",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-4",
+      "title": "Tutorial und verbundene Felder",
+      "date": "2026-09-20",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-5",
+      "title": "Startbetten",
+      "date": "2026-09-14",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-6",
+      "title": "Einstellungen im Spiel",
+      "date": "2026-09-08",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-7",
+      "title": "Siedlungsname und Uhr",
+      "date": "2026-09-01",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-8",
+      "title": "Schutzsuchende ohne Bett",
+      "date": "2026-08-26",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-9",
+      "title": "Feindbasis",
+      "date": "2026-08-20",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-10",
+      "title": "Abbauhöhe",
+      "date": "2026-08-14",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-11",
+      "title": "Gehschritte",
+      "date": "2026-08-08",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-12",
+      "title": "Priorisiertes Angriffsziel",
+      "date": "2026-08-02",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-13",
+      "title": "Bewohnergesichter",
+      "date": "2026-07-27",
+      "images": [
+        {
+          "image": "assets/updates/2e9e6290971eeeb9b643.webp",
+          "source": "Documentation/Screenshots/Bewohnergesicht_Female_01_Assetvorschau.png",
+          "date": null,
+          "kind": "Assetvorschau",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/9a3639052a987f2fcaad.webp",
+          "source": "Documentation/Screenshots/Bewohnergesicht_Male_01_Assetvorschau.png",
+          "date": null,
+          "kind": "Assetvorschau",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-14",
+      "title": "Sichtbare Berufswerkzeuge",
+      "date": "2026-07-21",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-15",
+      "title": "Baumaterial vom Boden",
+      "date": "2026-07-15",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-16",
+      "title": "Textilressourcen als Grundlage",
+      "date": "2026-07-09",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-17",
+      "title": "Spielstandtabelle",
+      "date": "2026-07-03",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-18",
+      "title": "Handwerkswarteschlangen",
+      "date": "2026-06-27",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-19",
+      "title": "Handwerksaufträge vom Schwarzen Brett",
+      "date": "2026-06-20",
+      "images": [],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-20",
+      "title": "Wunschliste mit Claude (Teile 1–13)",
+      "date": "2026-06-14",
+      "images": [
+        {
+          "image": "assets/updates/732e917f2c2f695702ff.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Bewohnermenue.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c044645cc902100e0d81.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Bewohnermenue_Beruf.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/160915c44548469d7ac6.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Cheatmenue.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/ca5989c9a5f5d73424b5.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Grube_4x4x4.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/8307f8a5b2ba102131e0.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Handwerkmenue.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/79636237d9e0e790a470.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Haus_Flachdach.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2233efb4b3f768bee103.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Haus_Tuer_Wand_Dach.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/6651902e902fb00e7d0c.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Haus_Tuer_Wand_Dach_seitlich.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c1fa7ff0a733f4c8012a.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Tutorial_Gebaeudeansicht.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/74b5bdd3508f57e46411.webp",
+          "source": "ArtSources/Wunschliste/Pruefung/Wirtschaftsleiste_Dock.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-08"
+    },
+    {
+      "id": "update-21",
+      "title": "Phase 62: Kamera, Holzwerkzeug und Nebenereignisse",
+      "date": "2026-06-08",
+      "images": [
+        {
+          "image": "assets/updates/d98bd339b7e3790cb74f.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Camera_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/c7eb2a2669f4aabe5d2c.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Camera_1920x1080.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/4d34c65d3b5cbf1c7391.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Events_1920x1080.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/71bccdded68b8b650a94.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Events_Commission_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/32d3c22ce171cdccce7a.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Events_ScoutWarning_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/b96df62571d66860f4e8.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Events_Wanderer_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/dd3aca5c4c4e1b401c58.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Notices_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/419c3f08c39875ceeb82.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Start_Campaign_1920x1080.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/db304b44c3b41d1b8c95.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_Start_Normal_1920x1080.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/53e13e11791a4564d64f.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_WoodTool_Felling.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/3879a09df7c58de655b1.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_WoodTool_Recipe_1280x720.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/b7b7552f3ea4b3620d6c.webp",
+          "source": "changelog/Phase_62/2026-10-06_22-33-46/Phase62_WoodTool_Recipe_1920x1080.png",
+          "date": "2026-06-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        }
+      ],
+      "sourceDate": "2026-10-06"
+    },
+    {
+      "id": "update-22",
+      "title": "KI für bis zu 100 Menschen",
+      "date": "2026-06-02",
+      "images": [
+        {
+          "image": "assets/updates/b4fad0b18689f6aceaf7.webp",
+          "source": "changelog/Phase_61/2026-10-06_01-38-26/Phase61_AI100.png",
+          "date": "2026-06-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/c81b42f71f2e46ddff2b.webp",
+          "source": "changelog/Phase_61/2026-10-06_01-42-29/Phase61_AI100.png",
+          "date": "2026-06-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/d17508adbc31bab01314.webp",
+          "source": "changelog/Phase_61/2026-10-06_01-46-15/Phase61_AI100.png",
+          "date": "2026-06-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        }
+      ],
+      "sourceDate": "2026-10-06"
+    },
+    {
+      "id": "update-23",
+      "title": "Geländestufen und Performance",
+      "date": "2026-05-27",
+      "images": [
+        {
+          "image": "assets/updates/52c8b1b453b5d5f52659.webp",
+          "source": "changelog/Phase_60/2026-10-06_00-58-57/Phase60_CliffAngle.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/011607255116bf86232a.webp",
+          "source": "changelog/Phase_60/2026-10-06_00-58-57/Phase60_NormalWorld.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/cdf46ab5cae973a477b9.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-00-52/Phase60_CliffAngle.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/6b50663c28000ccffe26.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-00-52/Phase60_NormalWorld.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/e47c134024b6e896afec.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-00-52/Phase60_ShadowsOff.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/16b70ab7176c91dbe0f1.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-03-47/Phase60_CliffAngle.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/26279c022a53e79ac092.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-03-47/Phase60_GraphicsMenu.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/750dd97ceac881824c03.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-03-47/Phase60_NormalWorld.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/fb66a26426f5be731a5e.webp",
+          "source": "changelog/Phase_60/2026-10-06_01-03-47/Phase60_ShadowsOff.png",
+          "date": "2026-05-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        }
+      ],
+      "sourceDate": "2026-10-06"
+    },
+    {
+      "id": "update-24",
+      "title": "V0.2 – Berufsfortschritt und schwarze Tafel",
+      "date": "2026-05-21",
+      "images": [
+        {
+          "image": "assets/updates/2ce051dfb1c7b8e13481.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-13-57/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c3d70066b742942f78b1.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-15-27/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/afa1ab487ce0d8f0ecf0.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-17-36/Phase50_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/eeec34c31945aaf708f6.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-17-36/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6665654f8db20a67d3d1.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-19-46/Phase50_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3405852838bbcdcfb2cc.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-19-46/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/05af5ebc601b634cf89b.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-21-58/Phase50_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c8494c001c66dcaaf4cb.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-21-58/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e4343b099d83e7a6dc71.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-24-14/Phase50_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3ed6db69900b2cb10213.webp",
+          "source": "changelog/Phase_50/2026-10-04_23-24-14/Phase50_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1aa17120fea2e6e338ee.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-28-12/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/dd41e0f97eee3ca7dc78.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-28-12/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e54617d19ea2dd41cbe6.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-30-28/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cb7884dfe4fe0627e98a.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-30-28/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5618439ce1e0aa12843b.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-32-38/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2102a56dc6454d96d0fe.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-32-38/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d43c44a232240517877a.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-36-23/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fd1577eeba1185b65d0a.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-36-23/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a6d670afeb94a118bf74.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-44-22/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/18825b6acbee40553195.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-44-22/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/595a88b425dee9ca4f62.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-44-22/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6611b9aa9343bf885738.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-52-37/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c995d1f782b4db59aff1.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-52-37/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3c2bd934c151cced0693.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-52-37/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/71d729be7f7dfc02d846.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-59-44/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bad6398bee1db0cf9ea8.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-59-44/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8f9e351c478373706b95.webp",
+          "source": "changelog/Phase_53/2026-10-04_23-59-44/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bb50ad1eac3bf706f176.webp",
+          "source": "changelog/Phase_53/2026-10-05_00-05-34/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/7336781fbb85b98b2505.webp",
+          "source": "changelog/Phase_53/2026-10-05_00-05-34/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/c2acdc480b717b6df59a.webp",
+          "source": "changelog/Phase_53/2026-10-05_00-05-34/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/48f20bedc11ce6df3364.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-07-16/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/15b1b5e73ee4fbe0a438.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-07-16/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/903f2ecf0c49569d9dab.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-07-16/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/bcf14bc760dda9b32bde.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-46-21/Phase53_CraftProgress.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/c1a6d67f5112fa40b11d.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-46-21/Phase53_Overview.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/ba64c9be9a08ae96f573.webp",
+          "source": "changelog/Phase_53/2026-10-06_01-46-21/Phase53_QuestBoard.png",
+          "date": "2026-05-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        }
+      ],
+      "sourceDate": "2026-10-05"
+    },
+    {
+      "id": "update-25",
+      "title": "Phase 49 – Spielbare Kampagnenwelt",
+      "date": "2026-05-15",
+      "images": [
+        {
+          "image": "assets/updates/c0fe4b49c878cf2aee9c.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-42-42/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/0c3449cf479f499eaad9.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-42-42/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f5ad4980b0a0adef50f3.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-42-42/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/07927ee83ce7fbd035ec.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-42-42/Phase49_WorldMenu.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ea2f311b53532e6ac512.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/73e2929c5add3fe6dd6e.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b8ad510331adaffa4988.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/99d30f1a2005a92f3238.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/206c65df3dda82847b63.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cb6e6e906b1572e659b1.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/78b318ff71fe7f8a31e2.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-45-17/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1f053f1aa4f5ff347a40.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/508436a6ee50f3e89c89.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f8b39eef8abb3e56f453.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fdc28e116cc6e0b8f227.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/77f08918df9ceb42c8ff.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/24b2581bddb24da3adea.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1b6ee42b02a00d912abe.webp",
+          "source": "changelog/Phase_49/2026-10-04_22-58-22/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/96dc1f5f3ade843ccbcc.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ec899dbb677afd648908.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2663624ca787af402921.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b17c0e1ff9bfb391ded1.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4d53a3d721790aba1c42.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f28cc3642f859299b726.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3a12a42828c1849866b2.webp",
+          "source": "changelog/Phase_49/2026-10-04_23-00-59/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3d2385f41c9023420acc.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/3facd98bab2c3f88b79b.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/da4fdb752565488a8578.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/ff64bc081960300265fb.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/6c13e7c791f59283d320.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/136af630fcddcad2de00.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/a0de7777556bab889e78.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/72313e60d1e2800146b9.webp",
+          "source": "changelog/Phase_49/2026-10-05_00-02-52/Phase49_WorldMenu.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-05"
+        },
+        {
+          "image": "assets/updates/fd8cdd93aa8ae3b38363.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/685ce15bae957fe0be8d.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/008de36beb666df89137.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/416a5b45a15f53b5f8b7.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/1c9ecfedb60e7a994c4c.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/d79b9864f5075b6c06ec.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/400a4d105383aedc12f1.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/cc34caa864f724952f11.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-00-57/Phase49_WorldMenu.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/4e13562d4090522bb4e0.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Base.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/984aa532742b3a8a981d.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Camp1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/9b216c793320b7f2cb70.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Camp2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/468af4c51a61cfd66699.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Combat1.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/10a6702db07578bc23cf.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Combat2.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/ad15321d226ec7a5ea64.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Farm.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/d195ed3116bd40c44457.webp",
+          "source": "changelog/Phase_49/2026-10-06_01-47-12/Phase49_Overview.png",
+          "date": "2026-05-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/d059c10e3ed3a386184c.webp",
+          "source": "changelog/Phase_49/Phase49_NativeBase720.jpg",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/03094f36f1ef231b89ac.webp",
+          "source": "changelog/Phase_49/Phase49_NativeWorldMenu.jpg",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-26",
+      "title": "Phase 48 – Bewohnerkorrekturen und Alarm",
+      "date": "2026-05-09",
+      "images": [
+        {
+          "image": "assets/updates/c7ca17f16cbf75656dd4.webp",
+          "source": "changelog/Phase_48/2026-10-04_22-18-57/Phase48_Alarm.png",
+          "date": "2026-05-09",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2152a736056572d5e6db.webp",
+          "source": "changelog/Phase_48/2026-10-04_22-18-57/Phase48_Farmer.png",
+          "date": "2026-05-09",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/37ca19ba23c11be897e2.webp",
+          "source": "changelog/Phase_48/2026-10-04_22-26-44/Phase48_Farmer.png",
+          "date": "2026-05-09",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3157d708b142fe7e278c.webp",
+          "source": "changelog/Phase_48/2026-10-04_22-28-57/Phase48_Alarm.png",
+          "date": "2026-05-09",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/968af73e97cb68515c47.webp",
+          "source": "changelog/Phase_48/2026-10-04_22-28-57/Phase48_Farmer.png",
+          "date": "2026-05-09",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/14d146963d57eb45917e.webp",
+          "source": "changelog/Phase_48/NativeCheck/Phase48_NeedsCheat.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/60a285402168359c3478.webp",
+          "source": "changelog/Phase_48/NativeCheck/Phase48_TooltipCleared.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/6c824874b54c5662cd4f.webp",
+          "source": "changelog/Phase_48/NativeCheck/Phase48_TooltipHover.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-27",
+      "title": "Phase 47: Arbeitsplätze und USB-Beta",
+      "date": "2026-05-03",
+      "images": [
+        {
+          "image": "assets/updates/e0cf05eb7cda259ca6c2.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Holzspannbank.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c47f06d38dd70db7999c.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Kochstelle.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c4519c524c94c253156c.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Meisselblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9c94c474d8b69431a964.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Saegeblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e3a1e6afdf96533b2c6b.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Steinmetztisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c692a554fd3a8bee7946.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-27-36/Phase47_Vorbereitungstisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/01b035669950680cd461.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Decoration.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/560639547180f99b366f.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Holzspannbank.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a10b1c30ec77f101fd05.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Kochstelle.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6ff3580bf7a0ef613039.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_LinkedSaw.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1816d0d6a24ef151973d.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Meisselblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4f85222f94b8169833d2.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Saegeblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/108f7a990b12bf145910.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_SmallStone.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/03d0f4c93e5b22c7de0a.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Steinmetztisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/67d1c7670c96314a2c98.webp",
+          "source": "changelog/Phase_47/2026-10-04_21-31-15/Phase47_Vorbereitungstisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6b7200a021913603dbae.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Decoration.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/01b6b383cf8cd1ba3b65.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Holzspannbank.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e4554b220794ef3ca93d.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Kochstelle.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1b75854c915c48ab35d3.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_LinkedSaw.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/30a7ccde9a2d445360bd.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Meisselblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2eba678844742ff64c42.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Saegeblock.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/77f239bf4d6cbd0cf8a9.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_SmallStone.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2a4a43fc4e0ea0b4f9dc.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Steinmetztisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bad9bee2134dbfcd2056.webp",
+          "source": "changelog/Phase_47/2026-10-04_22-22-07/Phase47_Vorbereitungstisch.png",
+          "date": "2026-05-03",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9432193427818cb102e0.webp",
+          "source": "changelog/Phase_47/NativeHelp/Phase47_BetaHelp.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-28",
+      "title": "Phase 46: Handwerksbuch, Bau-Icons und Weltwahl",
+      "date": "2026-04-27",
+      "images": [
+        {
+          "image": "assets/updates/b9e4275a0dfe9e8aebe6.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-04-56/Phase46_BuildingWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/37db48a7082149a5a5c0.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-04-56/Phase46_WorldChooser.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5c44461da917b08a044f.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-06-47/Phase46_BuildingWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d9ffb5bb74483fa5d020.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-06-47/Phase46_WorldChooser.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d1e9b3483a0bbe41cbbf.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_BuildCategories.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/67794904774e4e8e8f51.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_BuildingWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d085f88f88e7af25553b.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_BuildWood.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ca2075169604eaa01e05.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_CraftQueue.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/355a82fb26e2562036af.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_bed_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c960ffcea11da1941a62.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_chest_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6738c28bb253d06c72c7.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_floor_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d29d996f842140b1332d.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_meal.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/52cd3a0a6f18906e2ff8.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_plank.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/27b943296e1a47c62a89.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_roof_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d629baa17fe7642eccaa.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_stone_block.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c178ac388d409801ba79.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_Craft_wall_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4cd4d68c108f726cbfdf.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_FlatTestWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/43ed60d4a6d974348fb4.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_NormalWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b6f15778f700bbb0e15b.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-08-45/Phase46_SmallCraft.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e3af0f77adb155f2c57f.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_BuildCategories.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/34812009169ce8f87dc5.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_BuildingWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/de170d2a4585a668585e.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_BuildWood.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/af8a845bf1a0885aa8bd.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_CraftQueue.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/929c228a3f5508a1d625.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_bed_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ba6e0e58f1489165c27d.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_chest_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/84f13e7998cc43060ff9.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_floor_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/330031924a001e82475b.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_meal.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9451e25852a14c5b8d0d.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_plank.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ed31ad9e26478f31853d.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_roof_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d4ce1f55a0a35aba9d55.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_stone_block.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f2ea3771b661964c8f6c.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_Craft_wall_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d8d4cc7935ed265646f8.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_FlatTestWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6fbce39c8036507e6479.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_NormalWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e527909f119c49e39f87.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-11-35/Phase46_SmallCraft.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8a9a05d15f3d47b71833.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_BuildCategories.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c8d1f9df145320dc8bb3.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_BuildingWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b6b3956468165bce118f.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_BuildWood.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6f08192ee6d25992679e.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_CraftQueue.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3f4bbb97189039162a5c.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_bed_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/31b7fd4808dd01400cdd.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_chest_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c9d116922e1a00e433c3.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_floor_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c97df0a77a11a5109856.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_meal.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6a0983df5b18a77d79d8.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_plank.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/35386805c9d483e52a6e.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_roof_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/40b5cbf7d9c832d2d943.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_stone_block.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/21fb301064d8673bccc6.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_Craft_wall_part.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3a260ae7fcc1722c88f6.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_FlatTestWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d036d98c5edfb90d20f3.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_NormalWorld.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6d021c5bedd9b8e19ae1.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_SmallCraft.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/796e16698eeb4efde74c.webp",
+          "source": "changelog/Phase_46/2026-10-04_21-32-14/Phase46_WorldChooser.png",
+          "date": "2026-04-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-29",
+      "title": "Phase 45: Item-Icons und bildgesteuerte Werkbank",
+      "date": "2026-04-21",
+      "images": [
+        {
+          "image": "assets/updates/379c2e975b64700042bf.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-20-42/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a54508ed2199a757ddfd.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-24-54/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b6da580f790a50d826d2.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-26-06/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9b91cdb843c45ab76a90.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-27-43/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/71ebb12e5398575aab17.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3d8a9c7e8d47da83ed82.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Category_0.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/566959599a4e1eac4ff2.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Category_1.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b2e7016a4e55f9d232f3.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_bed_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/0fcac4f19a8e80df07b3.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_chest_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6080970f31ce0792af9e.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_floor_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/40c19757aabd66a57db5.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_plank.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8f6cd5e7e254052b5f8e.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_roof_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b9515e44ff46710bb4be.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_stone_block.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f8a250abce02389d722d.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-29-38/Phase45_Recipe_wall_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/152ce24d58f33c556684.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5b70b98f6e0ed1129873.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Category_0.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ef5f3801558c165aa39f.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Category_1.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/21ff6849c9f75972260c.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Category_2.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/0bddef64c9e78425d12c.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_bed_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/065ee8e29e8418f3486a.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_chest_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d69dcbb072426d9f1aa0.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_floor_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b5f9807428c4abc20b44.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_meal.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cf551a3ef42022167de5.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_plank.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c5b1f6f34b95b4d6326e.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_roof_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/41a068c9442e3d8e1d97.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_stone_block.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/606aac34ba587fb587bb.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-32-34/Phase45_Recipe_wall_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/568bf798621b220604cf.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fa47a896fb12b328b2ce.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Category_0.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a6ee4503798e35066e67.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Category_1.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9f2782a6e7db9f25f517.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Category_2.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/05f3775b62dfd3f694c5.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_bed_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e97eedec1ca539a8ca55.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_chest_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f98db02f9f423554c5cc.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_floor_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bc6991979b357e32d132.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_meal.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d3f9d34583b676a4ac76.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_plank.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6b71009bc5a44d211e4b.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_roof_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/84277412ffa684282d47.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_stone_block.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cc7943ba9df4a9b2b051.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-36-02/Phase45_Recipe_wall_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b7dc5a8b19d3d7ebe4f0.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b9533e0806b305a6b947.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Category_0.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/132149e0531bd4d4b360.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Category_1.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e2206739bf54de2051c0.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Category_2.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bebb784839da766f8039.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Fallback_Disabled.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f94204849ca0aca913a7.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Queue.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/73e4e265b923536ed839.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_bed_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/7b15c842884463d17aa2.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_chest_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/470892881c0840f80863.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_floor_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cd3cd70f444c235f1486.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_meal.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d5c885a505993d59fbf2.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_plank.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3da3be607e93e6ad40b3.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_roof_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1102d024e8c09affc269.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_stone_block.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ca8e4ed8a5a3399e38ef.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Recipe_wall_part.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ab03e9b2550feb27588c.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Small_Categories.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/eddb53370e1cb724003b.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Small_Details.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4d2c742e219585c76666.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Small_Recipes.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/34ad6b3e99d1adc40177.webp",
+          "source": "changelog/Phase_45/2026-10-04_20-37-36/Phase45_Small_Storage.png",
+          "date": "2026-04-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-30",
+      "title": "Phase 44: Das Versprechen im Stein",
+      "date": "2026-04-15",
+      "images": [
+        {
+          "image": "assets/updates/adb5395fa86fe4f80fbc.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-52-48/Phase44_Questbook.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/50184eaa533f53a799fc.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-52-48/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e4f1bb478e67c2c4ec42.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-52-48/Phase44_QuestHUD_1280x720.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e77c0fccf0de8e7ddc1e.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-52-48/Phase44_QuestHUD_2560x1440.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9c4defda1cf41a25504c.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-52-48/Phase44_QuestHUD_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f8458e3522bd5a8689c8.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-55-28/Phase44_Questbook.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e35e3900ac0fbdb5cc6e.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-55-28/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/57228a50023a3fa35290.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-55-28/Phase44_QuestHUD_1280x720.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/dae2807aab15ff5e9fd9.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-55-28/Phase44_QuestHUD_2560x1440.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f80c22f87ee3085d2010.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-55-28/Phase44_QuestHUD_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/602dd7318b736a2e96b4.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_CampaignComplete.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2a656f634a78a8b28896.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_Questbook.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/76dafd95fe1aafb12993.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/51aa1d728243a80da25e.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_QuestHUD_1280x720.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/28714db05f9532089040.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_QuestHUD_2560x1440.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/0467e39556d673d6b935.webp",
+          "source": "changelog/Phase_44/2026-10-04_19-57-54/Phase44_QuestHUD_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/f4a60f5c3f983574303a.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_CampaignComplete.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e761e8f3c0c289269324.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_Questbook.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/dec72f7e120f166740c6.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_Questbook_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4e3135d99ec94b5f6059.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/967d1a0bdac34e39b94a.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_QuestHUD_1280x720.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/0e9fbf03132c721946f2.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_QuestHUD_2560x1440.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/328d8cefdeccdc2d09e2.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_QuestHUD_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fe82d13e0edf5919bd19.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-04-17/Phase44_QuestHUD_Rescue_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ded61d3e8f08f77bcd1c.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-08-10/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/73d83004a200c0b76ca9.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_CampaignComplete.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1893958fdb0ce578d0d3.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_Questbook.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c9f167250a0d4784a21e.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_Questbook_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/4a6f7f506824095a6198.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_QuestHUD_1080p.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/dec7281936bf160cd613.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_QuestHUD_1280x720.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/38ba35b44e9cf1709e24.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_QuestHUD_2560x1440.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/36cb3b42afd1e9424a77.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_QuestHUD_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e03b980d6f7e8e1eea5f.webp",
+          "source": "changelog/Phase_44/2026-10-04_20-09-43/Phase44_QuestHUD_Rescue_960x640.png",
+          "date": "2026-04-15",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-31",
+      "title": "Phase 43: hohe Dorfpalisade",
+      "date": "2026-04-08",
+      "images": [
+        {
+          "image": "assets/updates/e72ddfe1bd36ecde3ba9.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-31-26/Phase43_BackAndCorner.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/db3bdf2b51dfe3e2d66c.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-31-26/Phase43_BuiltSegments.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c5b545fdf458017c5c0e.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-31-26/Phase43_Damaged.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5ebd4edc87c433f6614a.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-31-26/Phase43_PlacementPreview.png",
+          "date": "2026-04-08",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5712bcc64ab802ac6782.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-35-07/Phase43_BackAndCorner.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fa422b68342296211c90.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-35-07/Phase43_BuiltSegments.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bfc8c922ab2aa5ada2a9.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-35-07/Phase43_Damaged.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/971843ffd80c127082fa.webp",
+          "source": "changelog/Phase_43/2026-10-04_19-35-07/Phase43_PlacementPreview.png",
+          "date": "2026-04-08",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2db780064b81a088c0a8.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-03-52/Phase43_PlacementPreview.png",
+          "date": "2026-04-08",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/9a1e76741afd9269e5cc.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-07-14/Phase43_BackAndCorner.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/624cdd5feccb32a777f4.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-07-14/Phase43_BuiltSegments.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/f31114b207ac06ec97be.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-07-14/Phase43_Damaged.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/68914c3cb8115348a1f6.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-07-14/Phase43_PlacementPreview.png",
+          "date": "2026-04-08",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/2bce074a50e1d25786ce.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-47-44/Phase43_BackAndCorner.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/6ad27001eeb936ac1ab6.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-47-44/Phase43_BuiltSegments.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/6faa7842e0ce0d09e9bd.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-47-44/Phase43_Damaged.png",
+          "date": "2026-04-08",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        },
+        {
+          "image": "assets/updates/770fd9263ed0ffd58cca.webp",
+          "source": "changelog/Phase_43/2026-10-06_01-47-44/Phase43_PlacementPreview.png",
+          "date": "2026-04-08",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-06"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-32",
+      "title": "Phase 42: FarmHoe und echte Bauern-Arbeitsbewegung",
+      "date": "2026-04-02",
+      "images": [
+        {
+          "image": "assets/updates/33921a3dc0e06b8ca974.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-06-47/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3555d47766ccc9e0bb7d.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-06-47/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/59dc8a28095d9814c25f.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-06-47/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/19aaf96e37c5c2df9c48.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-09-21/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/01fd80d705520a7b0054.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-09-21/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9e16e50eb7c58a4992cc.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-09-21/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6f752549f74c81d5bd9e.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-11-23/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6706803163714f7c6cf3.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-11-23/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/74e2f07280f8ca2f18d4.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-11-23/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/26f018897b6a74376cd2.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-13-54/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bd17e53ca8440033cd15.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-13-54/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1cf1f4e4113862812d4c.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-13-54/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/aa78f54c96c512f51fad.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-13-54/Phase42_WorkEnded.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3d56630f096249b73221.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-15-56/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/55cd39b19e5590be6ba5.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-15-56/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cd681c169edaf8fb02bb.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-15-56/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/7e4f7ddd7d6d72e6caa6.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-15-56/Phase42_WorkEnded.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ecf1b5f7a8ff3a5f0b36.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-18-50/Phase42_FrontContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/954c399956abd9b5cf68.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-18-50/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/465d4d22431feffee822.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-18-50/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b7eb4c654496d3fb5f85.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-18-50/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ba87c3d5bdd65c5e3fca.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-18-50/Phase42_WorkEnded.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/168f909ddebecdb428f1.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-21-01/Phase42_FrontContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e8b00aa1e7052a330728.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-21-01/Phase42_Lift.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3beb7719d79f7d18d9bb.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-21-01/Phase42_SoilContact.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a229e3f68f653be83379.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-21-01/Phase42_Walking.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/40dcd06036993874b23a.webp",
+          "source": "changelog/Phase_42/2026-10-04_19-21-01/Phase42_WorkEnded.png",
+          "date": "2026-04-02",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-33",
+      "title": "Phase 41: Bildarchiv, Wandmischung und HUD",
+      "date": "2026-03-27",
+      "images": [
+        {
+          "image": "assets/updates/d95c9ff01e18c344f49f.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_Build.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/931ad45928ec8d5b956c.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_Carpenter.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c0dcba602de80982eba4.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_CraftJobs.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9ca93e846a128e945de3.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_CraftRecipe.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/ff42e695f38c7cc90f22.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_Gallery.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c8112144d85d88d89a54.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_GalleryOverview.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/304662da8f5238786e4b.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-51-25/Phase41_StoneParts.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8dd5b88e37d330b0a9dd.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_Build.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b6b05af6f5316c65dcfe.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_Carpenter.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bbcb8a85cba00f10407f.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_CraftJobs.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6a1c8d3787e0123a1806.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_CraftRecipe.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/730c86dac72d744f884a.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_Gallery.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/eb6bea3f259233d7e1c3.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_GalleryOverview.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8803c31219400d4b46e0.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-53-07/Phase41_StoneParts.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/b912321e55f73fff73db.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_Build.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/abbd9b3a5fb600b3244c.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_Carpenter.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a0736cc45f66e1e20def.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_CraftJobs.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/01529373ce8f704676ed.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_CraftRecipe.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/df2583c1b9d08c3cad1f.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_Gallery.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3c044a7542c468a0c294.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_GalleryOverview.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/db7f45de8457ec9ba229.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_GroundItem.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/46d222cc6446a33b0360.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_MixedWalls.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/cc38b6afd40cd2991813.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_StoneParts.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8b48f73ee707ed234372.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-54-16/Phase41_WindowPreview.png",
+          "date": "2026-03-27",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/d63036629ba8398ed5a3.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_Build.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a3ef32885fcdf5069d1e.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_Carpenter.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/8512661c4ab41e8577e7.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_CraftJobs.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1d157790a484b824858a.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_CraftRecipe.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2b64e0343030368fdbae.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_Gallery.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6bdcafb1816040f011f8.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_GalleryOverview.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/2952e8d7ae87bc3f3412.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_GroundItem.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/9f101528661932c453df.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_MixedWalls.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/55ca3caaa53bc69389b4.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_StoneParts.png",
+          "date": "2026-03-27",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/935912ac587f12175218.webp",
+          "source": "changelog/Phase_41/2026-10-04_18-56-17/Phase41_WindowPreview.png",
+          "date": "2026-03-27",
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-34",
+      "title": "Phasen 39/40: vorbereitete Modelle, Berufsoutfits und vollständiger Modellkatalog (Save 58)",
+      "date": "2026-03-21",
+      "images": [
+        {
+          "image": "assets/updates/56b9388054b95a5a5a11.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_Build.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/8ef6f783134509c3c086.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_Carpenter.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/54d4b882ee64833700d0.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_CraftJobs.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/759e64fe5005858469f9.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_CraftRecipe.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/315a74a824f9aa491056.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_Gallery.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/33788ec0b8b851b8ebca.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_GalleryOverview.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/bba8899afade23148f59.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_GroundItem.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d7751fa44905b8b57e99.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_MainMenu.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/9c8f39c37bdd85de17be.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_Professions.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/f1c36c966f9b3b427ccd.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_Roads.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/970eb165d0d6e5d734dc.webp",
+          "source": "changelog/Phase_39/Bisherige_Bildkontrolle/Phase39_StoneParts.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/94ce3d30e783d1196861.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Build.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/96e75183d1287c2ad87d.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Carpenter.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6b9c32eb4930301589b2.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_1_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/13d461c0542e12d74b12.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_1_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/aff3376acbf328f69ae9.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_2_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c2f602f59c7370e2c005.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_2_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/5766b9290b90481a89f2.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_3_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/bc83bd5a767d53e8eb76.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_3_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e9219b7de1b463cbc2af.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_4_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/802ebc05d83252701e1a.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_4_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/67b86945cf741c656075.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_5_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/fb295e2bc68ca4f2b46c.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_5_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/776ec910846f73b61403.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_6_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/85c3ec10f06598ce1ce2.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_6_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/68bb22249f02b5ef9119.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_7_Back.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/172d8edb93580929c7f3.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Completion_7_Front.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/7d1ab928c07c6b43b907.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_CraftJobs.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3a3e700f55a60bef6efe.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_CraftRecipe.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/eb29c2d8609388f366f5.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Gallery.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/3f07fc05e9cb01819271.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_GalleryOverview.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/1ebb91373519f04e6edd.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_GroundItem.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/c98e95a31445b1d7cd22.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Professions.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/a73505414b0d8578172b.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_Roads.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/e94285aed9c2236bb6dd.webp",
+          "source": "changelog/Phase_40/2026-10-04_19-21-43/Phase40_StoneParts.png",
+          "date": "2026-03-21",
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": "2026-10-04"
+        },
+        {
+          "image": "assets/updates/6b67227e62c1d857fc3a.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Build.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/7654b7f26ada74d9ef64.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Carpenter.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/7278f74901b317e7a051.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_1_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/9b4bdf8f5af589a49e3f.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_1_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/e7e6e60154435b0f8828.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_2_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/e3a18ba8892770d51b81.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_2_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/64c2e86aa7813c4d0a49.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_3_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/e892b7c24a9b6b8e89fa.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_3_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/f22b601715efdbe3b495.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_4_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c63c2d5f8fe0bab5af8e.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_4_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/10a0a3e07541b70c7e60.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_5_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/5ea28578b12a2af090eb.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_5_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2716bb6fa0f37b135c93.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_6_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2b08b12ce9de264e2e6e.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_6_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2cdcb90baf5766def12a.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_7_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/57e6fb6db2bad0424963.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Completion_7_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d20f2ef4e0718684c7de.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_CraftJobs.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/497a16df4cd1953613eb.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_CraftRecipe.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c34a06808c5fd1c59e6d.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Gallery.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/3b27f24969145cdb7d27.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_GalleryOverview.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/0231fa2024975953b69b.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_GroundItem.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/597aad2a8229fe521a19.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Professions.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d0447ff336412c223691.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_Roads.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/f6f994e36adbcac9affd.webp",
+          "source": "changelog/Phase_40/Bisherige_Bildkontrolle/Phase40_StoneParts.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-35",
+      "title": "Phase 38 – HUD-Rahmen und Bodenhöhen",
+      "date": "2026-03-15",
+      "images": [
+        {
+          "image": "assets/updates/2581e44aab09d42d2970.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_Build.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/177bec10d626b9a7fcff.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_Carpenter.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/fb29ecde37369880f960.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_CraftJobs.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/b672ef52c6303cba5943.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_CraftRecipe.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/8d99007273b873af169a.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_FloorBedEarth.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d943d108a333e70e27c5.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_Gallery.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/3e65119580e59a47e2e3.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_GalleryOverview.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/8adf816cdf90d5942ad7.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_GroundItem.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/98453b6048dab63f7394.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_MainMenu.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/7599d374cd4cf16b3416.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_StoneParts.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d995eaadf017e7adc272.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_WallDragPreview.png",
+          "date": null,
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/90e3fb5bd454ebd1421e.webp",
+          "source": "changelog/Phase_38/Bisherige_Bildkontrolle/Phase38_WallPreview.png",
+          "date": null,
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-36",
+      "title": "Phase 35: Große Testkarte und durchgehender Boden (Save 55)",
+      "date": "2026-03-09",
+      "images": [
+        {
+          "image": "assets/updates/723d90c48f3890e752d4.webp",
+          "source": "changelog/Phase_35/Bisherige_Bildkontrolle/Phase35_JoinedEarth.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/54152df8ef09438d819a.webp",
+          "source": "changelog/Phase_35/Bisherige_Bildkontrolle/Phase35_JoinedGrass.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/f9f9a608d861ff679a2b.webp",
+          "source": "changelog/Phase_35/Bisherige_Bildkontrolle/Phase35_MainHall.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/752e7075dfc989a8df3f.webp",
+          "source": "changelog/Phase_35/Bisherige_Bildkontrolle/Phase35_TestMap_Overview.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-37",
+      "title": "Phase 34: Truhen, gemeinsamer Angriff und Innenansicht (Save 54)",
+      "date": "2026-03-03",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-38",
+      "title": "Phase 33: Ladebilder und Hauptmenü (Save 54)",
+      "date": "2026-02-25",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-39",
+      "title": "Phasen 29–32: Ziele und verlässliche Erholung (Save 54)",
+      "date": "2026-02-19",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-40",
+      "title": "Phase 28: Gefangenenbefreiung (Save 54)",
+      "date": "2026-02-13",
+      "images": [
+        {
+          "image": "assets/updates/64eeac21d45b797040b3.webp",
+          "source": "changelog/Phase_28/Bisherige_Bildkontrolle/CampRescue_Phase28.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c03557659e26feeb192b.webp",
+          "source": "changelog/Phase_28/Bisherige_Bildkontrolle/Phase28_WindowsPlayer.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-41",
+      "title": "fortlaufende Phasen (Save 53)",
+      "date": "2026-02-07",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-42",
+      "title": "Monumentkrise (Save 30)",
+      "date": "2026-02-01",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-43",
+      "title": "Langsamere Sättigungsabnahme",
+      "date": "2026-01-25",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-44",
+      "title": "Steingolem als NPC (Save 29)",
+      "date": "2026-01-19",
+      "images": [
+        {
+          "image": "assets/updates/06c529e3d2cc9722a17e.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/Golem_Unity_Back.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c1b29c3a0ac08a341e85.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/Golem_Unity_Front.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-45",
+      "title": "Stone & Soil V0.1 – erster Meilenstein: spielbares Grundgerüst",
+      "date": "2026-01-13",
+      "images": [
+        {
+          "image": "assets/updates/4ebd4521c204b21d15d1.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/Farmer_Ingame_V0.1.jpg",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-46",
+      "title": "Karte ohne Startdekoration",
+      "date": "2026-01-07",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-47",
+      "title": "Bauernfiguren und Save 28",
+      "date": "2026-01-01",
+      "images": [],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-118",
+      "title": "Phase 37 – HUD, Objektübersicht und Bedienung / Save 57",
+      "date": "2025-12-26",
+      "images": [
+        {
+          "image": "assets/updates/d8cec8393ce13f5cea51.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_Build.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/9a06c81dacf34949b40b.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_Carpenter.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2e0b5438af2c22e82bb3.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_CraftJobs.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/1a1f7f4cb9e080ff2c7b.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_CraftRecipe.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/0259f4331b4a49f65d94.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_Gallery.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/ac1b7ab8e5c13a6ad00c.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_GalleryOverview.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/20c5c8feed9e125599fa.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_GroundItem.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/75f821b9f30cf18b18c9.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_MainMenu.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/cdd60d5b6c4f848b6d01.webp",
+          "source": "changelog/Phase_37/Bisherige_Bildkontrolle/Phase37_StoneParts.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": "2026-10-04"
+    },
+    {
+      "id": "update-49",
+      "title": "Laufzeit-Meilenstein in Arbeit: Wohnen, Werkzeuge, Welt und Save 26",
+      "date": "2025-12-20",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-50",
+      "title": "Wache, Verteidigungswahl und Save 24 im Quellcode",
+      "date": "2025-12-14",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-51",
+      "title": "Skelettgegner und erreichbare Verteidigung im Quellcode",
+      "date": "2025-12-08",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-52",
+      "title": "Überfallprototyp im Quellcode, Laufzeitprüfung offen",
+      "date": "2025-12-02",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-53",
+      "title": "Hauptmenü und Testwelt im Quellcode",
+      "date": "2025-11-26",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-54",
+      "title": "Berufe direkt an der Aufgabentabelle",
+      "date": "2025-11-20",
+      "images": [],
+      "sourceDate": "2026-10-03"
+    },
+    {
+      "id": "update-55",
+      "title": "Feldbereiche, untere Vorratsleiste und Schreiner",
+      "date": "2025-11-13",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-56",
+      "title": "KayKit-Boden, zweifeldriges Bett und Save 22",
+      "date": "2025-11-07",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-57",
+      "title": "Bewohneraufgaben, KayKit-Figuren und sichere Umwege",
+      "date": "2025-11-01",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-58",
+      "title": "Phase 2 abgeschlossen: Items, Mindestvorräte und Steinziegel",
+      "date": "2025-10-26",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-59",
+      "title": "Kernzustand und Speichern laufender Arbeit",
+      "date": "2025-10-20",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-60",
+      "title": "Bauabschnitt und HUD abgeschlossen",
+      "date": "2025-10-14",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-61",
+      "title": "Projekt-Audit und Chat-Übergabe (kein Gameplay-Milestone)",
+      "date": "2025-10-08",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-62",
+      "title": "Milestone 58: Hütten auf 2×2 Feldern",
+      "date": "2025-10-02",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-63",
+      "title": "Milestone 57: Erde durch Bewohner setzen",
+      "date": "2025-09-26",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-64",
+      "title": "Milestone 56: Wohnhütten und Wohnplätze",
+      "date": "2025-09-20",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-65",
+      "title": "Milestone 54–55: Felder und mehr Bewohner",
+      "date": "2025-09-14",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-66",
+      "title": "Milestone 53: Detailfenster besser lesbar",
+      "date": "2025-09-08",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-67",
+      "title": "Milestone 52: Volles Lager entlasten",
+      "date": "2025-09-01",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-68",
+      "title": "Milestone 51: Kleine Höhenwelt",
+      "date": "2025-08-26",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-116",
+      "title": "modularer Siedlungsausbau und eigenes Low-Poly-Set",
+      "date": "2025-08-20",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-117",
+      "title": "geschlossener Boden und nahe Startkamera",
+      "date": "2025-08-14",
+      "images": [],
+      "sourceDate": "2026-10-02"
+    },
+    {
+      "id": "update-69",
+      "title": "Milestone 50: KayKit-Erde auf der Weltoberfläche",
+      "date": "2025-08-08",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-70",
+      "title": "Milestone 45: Klarere Koloniehinweise",
+      "date": "2025-08-02",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-71",
+      "title": "Milestone 44: Sicheres Überschreiben",
+      "date": "2025-07-27",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-72",
+      "title": "Milestone 43: Drei Spielstände",
+      "date": "2025-07-21",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-73",
+      "title": "Milestone 42: Beeren als Vorrat",
+      "date": "2025-07-15",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-74",
+      "title": "Milestone 41: Erneuerbares Holz",
+      "date": "2025-07-09",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-75",
+      "title": "Milestone 40: Hunger und Beerenbüsche",
+      "date": "2025-07-03",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-76",
+      "title": "Milestone 39: Unterschiedliche Bodenschichten je Seed",
+      "date": "2025-06-27",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-77",
+      "title": "Milestone 38: Wald-Seed und passende KayKit-Ressourcen",
+      "date": "2025-06-20",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-78",
+      "title": "Milestone 37: Truhen als Bauauftrag",
+      "date": "2025-06-14",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-79",
+      "title": "Milestone 36: Baumstamm und Brett klar getrennt",
+      "date": "2025-06-08",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-80",
+      "title": "Milestone 35: Bedienfenster und sichere Bewohnerwege",
+      "date": "2025-06-02",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-81",
+      "title": "Milestone 34: Mehrere Lager und Truhen",
+      "date": "2025-05-27",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-82",
+      "title": "Milestone 33: KayKit-Möbel im Kolonie-Test",
+      "date": "2025-05-21",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-83",
+      "title": "Milestone 32: Abbauvorschau und sichtbarer Abbruch",
+      "date": "2025-05-15",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-84",
+      "title": "Milestone 31: Dreifache Spielgeschwindigkeit",
+      "date": "2025-05-09",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-85",
+      "title": "Milestone 30: Kapazität des Testlagers",
+      "date": "2025-05-03",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-86",
+      "title": "Milestone 29: Materialfilter für das Lager",
+      "date": "2025-04-27",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-87",
+      "title": "Milestone 28: Gezielter Volumenabbau und Auswahl",
+      "date": "2025-04-21",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-88",
+      "title": "Milestone 27: Versetzbares Lager",
+      "date": "2025-04-15",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-89",
+      "title": "Milestone 26: KayKit-Testbäume",
+      "date": "2025-04-08",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-90",
+      "title": "Milestone 25: Sichtbare Bewohnerbewegungen",
+      "date": "2025-04-02",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-91",
+      "title": "Milestone 24: Bewohner und Menü",
+      "date": "2025-03-27",
+      "images": [],
+      "sourceDate": "2026-10-01"
+    },
+    {
+      "id": "update-92",
+      "title": "Milestone 23: Zweiter Abbau- und Holzbewohner",
+      "date": "2025-03-21",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-93",
+      "title": "Milestone 22: Manueller Spielstand",
+      "date": "2025-03-15",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-94",
+      "title": "Milestone 21: Schlafplatz",
+      "date": "2025-03-09",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-95",
+      "title": "Milestone 20: Arbeitsarten steuern",
+      "date": "2025-03-03",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-96",
+      "title": "Milestone 19: Bewohner auswählen",
+      "date": "2025-02-25",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-97",
+      "title": "Milestone 18: Spielzeitsteuerung",
+      "date": "2025-02-19",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-98",
+      "title": "Milestone 17: Energie an der Werkbank",
+      "date": "2025-02-13",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-99",
+      "title": "Milestone 16: Energie beim Transport",
+      "date": "2025-02-07",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-100",
+      "title": "Milestone 15: Erste Energie und Ruhepause",
+      "date": "2025-02-01",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-101",
+      "title": "Milestone 14: Erste gemeinsame Aufgabenwahl",
+      "date": "2025-01-25",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-102",
+      "title": "Milestone 13: Werkbankstatus",
+      "date": "2025-01-19",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-103",
+      "title": "Milestone 12: Werkbankauftrag entfernen",
+      "date": "2025-01-13",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-104",
+      "title": "Milestone 11: Mehrere Bäume und wiederholte Produktion",
+      "date": "2025-01-07",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-105",
+      "title": "Milestone 10: Werkbank und erstes Brett",
+      "date": "2025-01-01",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-106",
+      "title": "Milestone 9: Baum bis Holzlager",
+      "date": "2024-12-26",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-107",
+      "title": "Milestone 8: Transport zum Testlager",
+      "date": "2024-12-20",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-108",
+      "title": "Milestone 7: Lose Ressourcen nach Abbau",
+      "date": "2024-12-14",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-109",
+      "title": "Milestone 6: Erster Abbau durch Testbewohner",
+      "date": "2024-12-08",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-110",
+      "title": "Milestone 5: Flächenmarkierung",
+      "date": "2024-12-02",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-111",
+      "title": "Milestone 4: Abbau-Markierungen",
+      "date": "2024-11-26",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-112",
+      "title": "Milestone 3: Voxelabbau-Test",
+      "date": "2024-11-20",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-113",
+      "title": "Milestone 2: Kamera für die Testwelt",
+      "date": "2024-11-13",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-114",
+      "title": "Milestone 1: Voxel-Testwelt",
+      "date": "2024-11-07",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-115",
+      "title": "Milestone 0: Project Foundation",
+      "date": "2024-11-01",
+      "images": [],
+      "sourceDate": "2026-09-30"
+    },
+    {
+      "id": "update-48",
+      "title": "Aktuell: automatische Bauaufträge, Werkbankwarteschlange und Wandecken (Save 27)",
+      "date": "2024-10-26",
+      "images": [],
+      "sourceDate": null
+    },
+    {
+      "id": "bilder-1",
+      "title": "Frühe Stände – ergänzende Bilddokumentation",
+      "date": "2024-10-20",
+      "images": [
+        {
+          "image": "assets/updates/537f8debde208e123682.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/CampRescue-preview.png",
+          "date": null,
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d3eba19e649ec8b25b68.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/Phases_WindowsPlayer.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/4e4ff6d517e43e2c356c.webp",
+          "source": "changelog/Fruehe_Staende/Bisherige_Bildkontrolle/SkeletonRoles-preview.png",
+          "date": null,
+          "kind": "Modell- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": null
+    },
+    {
+      "id": "bilder-2",
+      "title": "Phase 32 – ergänzende Bilddokumentation",
+      "date": "2024-10-14",
+      "images": [
+        {
+          "image": "assets/updates/065c7fba44263e13e8dc.webp",
+          "source": "changelog/Phase_32/Bisherige_Bildkontrolle/Phase32_WindowsPlayer.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": null
+    },
+    {
+      "id": "bilder-3",
+      "title": "Phase 36 – ergänzende Bilddokumentation",
+      "date": "2024-10-08",
+      "images": [
+        {
+          "image": "assets/updates/aa59daf30a87571d7b31.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Drawbridge_Raised.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/2235add3cc705c2a5eec.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Gameplay.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/113a17855080a528bc7a.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Gate_Closed.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c16bc41b9389c8e6c91d.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Gate_Open.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/24f8744af5a65fca3710.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_JoinedStyles_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/60eb6fdaa4b2c9e0289e.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_JoinedStyles_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/43181a87ac7c69d4b6ce.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Other_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/5ae7ada4c7893ae1ad60.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Other_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c9f1af1c6de31eff36c5.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Ruin_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/0d3a41f5036c36e3c9a0.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Ruin_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/38ec6e57ddea066c6baa.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Skeleton_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/26e3a2eb8b7cc7e4f644.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Skeleton_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/d26d301394981f25f664.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Stone_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/c256bb993c4c672227a2.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Stone_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/766877973ea63d5a3f0d.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Wood_0.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        },
+        {
+          "image": "assets/updates/b7af94bd46b1cee4ce0f.webp",
+          "source": "changelog/Phase_36/Bisherige_Bildkontrolle/Phase36_Wood_1.png",
+          "date": null,
+          "kind": "Spiel- / Prüfansicht",
+          "sourceDate": null
+        }
+      ],
+      "sourceDate": null
+    }
+  ],
+  "displayTimeline": {
+    "start": "2024-10-08",
+    "end": "2026-10-08",
+    "type": "website-only presentation dates",
+    "orderPreserved": true
+  }
+}
