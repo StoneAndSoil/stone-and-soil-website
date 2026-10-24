@@ -1,0 +1,56 @@
+SEK BAHN – WEBSITE SPÄTER BEARBEITEN
+
+Die aktuelle Website liegt im Desktop-Ordner SEKBahn in der Datei index.html.
+Alle Bilder und das Logo sind direkt in dieser Datei enthalten.
+
+FIRMENDATEN, KONTAKT UND IMPRESSUM
+
+1. Zuerst eine Sicherungskopie von index.html anlegen.
+2. index.html mit einem Texteditor öffnen, beispielsweise per Rechtsklick > Öffnen mit > Editor. Ein Doppelklick öffnet normalerweise die Website im Browser.
+3. Mit Strg+F nach FIRMENDATEN HIER BEARBEITEN suchen. Der Block steht direkt am Dateianfang.
+4. Nur die Werte rechts vom Doppelpunkt zwischen den Anführungszeichen ändern. Feldnamen, Anführungszeichen und Kommas erhalten.
+5. Speichern (Strg+S) und die Website im Browser neu laden (Strg+R).
+
+Beispiel:
+"email": "info@sek-bahn.de",
+
+Das Feld email steuert die sichtbare Kontaktadresse UND die Empfänger aller E-Mail-Schaltflächen. Die Adresse info@sek-bahn.de ist derzeit die vom Auftraggeber vorgegebene Vorschauadresse; die Erreichbarkeit des Postfachs wurde nicht geprüft.
+
+Felder im Block:
+- firmenname: vollständige Firmierung für Visitenkarte und Impressum.
+- email: Kontaktadresse und Empfänger für Projekt- und Karriereanfragen.
+- telefon: sichtbare Telefonnummer. Eine echte Nummer wird automatisch anklickbar.
+- anschrift: Geschäftsanschrift. Ein Zeilenumbruch wird innerhalb des Textes als \n geschrieben.
+- vertretenDurch: vertretungsberechtigte Person bzw. Geschäftsführung.
+- registergericht / registernummer: Handelsregisterangaben.
+- umsatzsteuerId / wirtschaftsId: soweit vorhanden und anzugeben.
+- berufsrecht: einschlägige Angaben zu Berufsbezeichnung, Verleihungsstaat, Kammer, Regelungen und Aufsichtsbehörde.
+- impressumHinweis: aktueller Entwurfshinweis. Nach Vervollständigung und Prüfung kann der Wert auf "" gesetzt werden; die Zeile wird dann ausgeblendet.
+- datenschutzHinweis: entsprechender Hinweis für die Datenschutzhinweise.
+- datenschutzText: vollständiger, zum tatsächlichen Betrieb passender Datenschutztext. Absätze mit \n\n trennen.
+
+Nicht einschlägige optionale Impressumsfelder können den leeren Wert "" erhalten. Die entsprechende Zeile wird dann ausgeblendet. Erforderliche Angaben nicht leer lassen.
+
+Wichtig für die Schreibweise:
+- Zeilenumbrüche im Text: \n
+- Anführungszeichen innerhalb eines Textes: \"
+- Den Datenblock nicht mit einem Textverarbeitungsprogramm wie Word speichern, sondern als unveränderte HTML-Datei in UTF-8.
+- Änderungen an diesen Daten werden per eingebettetem JavaScript auf der Website angezeigt. Nicht die weiter unten sichtbaren Wiederholungen der Platzhalter bearbeiten.
+
+E-MAIL-VORLAGEN
+
+Projektanfrage per E-Mail öffnet eine Vorlage mit Projekt, gewünschter Leistung, aktuellem Stand, Zeitrahmen und Rückrufdaten.
+Beruflich ins Gespräch kommen öffnet eine Vorlage mit Name, Schwerpunkt, Erfahrung, gewünschter Tätigkeit und Verfügbarkeit.
+Beide Links verwenden das auf dem jeweiligen Gerät konfigurierte E-Mail-Programm bzw. den eingerichteten Mail-Link-Handler. Die Website selbst versendet keine Nachricht. Wenn kein E-Mail-Programm eingerichtet ist, kann das Öffnen ausbleiben; die Adresse bleibt auf der Visitenkarte anklickbar und kopierbar.
+Zum Anpassen der Vorlagen im unteren Script nach emailVorlagen suchen. Die body-Werte enthalten den Nachrichtentext; \r\n steht für einen Zeilenumbruch.
+
+VERÖFFENTLICHUNG UND SPÄTERE ÄNDERUNGEN
+
+Die lokale Bearbeitung ändert eine bereits veröffentlichte Website nicht automatisch. Nach Änderungen muss die aktualisierte index.html erneut beim gewählten Hostinganbieter hochgeladen werden.
+Der Unterordner archiv enthält frühere Fassungen. Nur die aktuelle index.html veröffentlichen; Entwürfe und interne Nachweisdateien müssen nicht öffentlich hochgeladen werden.
+Die Datenschutzangaben sind weiterhin ein Entwurf und müssen vor Veröffentlichung zum Hosting und tatsächlichen Betrieb passen.
+
+
+KOPIERMÖGLICHKEITEN OHNE E-MAIL-PROGRAMM
+Bei Projektanfragen und Karriere gibt es zusätzlich E-Mail-Adresse kopieren und Vorlage kopieren. Die Vorlage enthält Betreff und Nachrichtentext. Auf der Visitenkarte kann die E-Mail-Adresse ebenfalls kopiert werden. Die Schaltflächen verwenden automatisch die zentral eingetragene Adresse und die jeweiligen E-Mail-Vorlagen.
+Falls der Browser den Zugriff auf die Zwischenablage verhindert, erscheint ein markiertes Textfeld zum manuellen Kopieren. Es wird keine Nachricht versendet.
