@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 72" fill="none" role="img" aria-labelledby="title">
+  <title id="title">SEK – Logo mit stilisiertem Gleismotiv</title>
+  <rect width="116" height="72" rx="4" fill="#0e2035"/>
+  <g fill="#ffffff">
+    <path d="M13 13H38V19H19V25H38V43H13V37H32V31H13Z"/>
+    <path d="M45 13H69V19H51V25H67V31H51V37H69V43H45Z"/>
+    <path d="M77 13H83V25H86L98 13H106L91 28L106 43H98L86 31H83V43H77Z"/>
+  </g>
+  <g stroke="#f39449" stroke-width="2.5" stroke-linecap="square">
+    <path d="M13 53H76L102 49M13 61H77L103 57"/>
+    <path d="M25 51V63M39 51V63M53 51V63M67 51V63M84 50L86 61M97 48L99 59" stroke-width="2"/>
+  </g>
+</svg>

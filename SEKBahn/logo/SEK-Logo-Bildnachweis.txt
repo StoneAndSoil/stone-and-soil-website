@@ -1,0 +1,11 @@
+SEK-Schriftzug mit Schnellzug – Logoentwurf
+Erstellt am 24.10.2026 mit der integrierten OpenAI-Bildgenerierung.
+Fiktives Schnellzugmotiv ohne DB-Logo oder ICE-Schriftzug. Keine Markenrecherche oder Exklusivitätsprüfung durchgeführt.
+Die Website verwendet eine eingebettete JPEG-Fassung; das PNG-Original liegt im Ordner logo.
+
+Originalprompt:
+A clean professional corporate logo on a perfectly uniform solid dark navy background, hex #0e2035. Landscape 2:1 image tightly framed. Exact only text: SEK, centered across upper two thirds, in large bold clean white forward-leaning geometric sans serif. Beneath the letters, one sleek streamlined high-speed train side profile heading right, white body, dark navy windows, fine orange belt stripe, and two simple thin horizontal speed lines extending to the left. Train is slightly wider than the lettering. Compact iconic graphic, refined vector-like flat design, perfectly smooth crisp geometric contours and solid opaque fills. All navy areas are opaque and uniform; NOT transparent. No distressed marks, no splatters, no grunge, no texture, no rough edges, no gradient, no shadows, no photorealism, no mockup. No DB logo, no ICE text, no other text, no registered brand marks. The locomotive is a generic aerodynamic express train with an elegant nose. Excellent small size readability, polished transport engineering logo.
+
+
+AKTUELLE FASSUNG: SEK-schnellzug-transparent.svg / .png
+Der freigegebene Schnellzugentwurf wurde anschließend als saubere Vektorgrafik neu umgesetzt: ohne Tür, mit zwei auslaufenden Bewegungslinien und transparentem Hintergrund. Das PNG (2400 x 1104 Pixel) ist ein Render der SVG-Datei. Die Website verwendet die direkt eingebettete SVG-Fassung. Die vorherigen PNG/JPEG-Entwürfe sind nicht die aktuelle Website-Fassung.
