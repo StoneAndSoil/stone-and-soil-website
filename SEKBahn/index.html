@@ -154,6 +154,12 @@
     .copy-manual{display:block;font-size:11px;margin-top:10px}.copy-manual[hidden]{display:none}.copy-manual textarea{display:block;width:100%;margin-top:7px;padding:12px;border:1px solid #92a5b7;background:#fff;color:var(--navy);font:13px/1.6 Arial,sans-serif;resize:vertical}
     .career-actions{max-width:390px}.career .copy-hint,.career .copy-status{color:#c2cedb}.career .copy-buttons button{color:#e2ebf3;border-color:#6d8195}.career .copy-buttons button:hover{background:#213b53;border-color:#b6c5d3}.career .copy-manual{color:#d5e0eb}.career .career-actions>.btn{white-space:normal;text-align:center}
     @media(max-width:800px){.career-actions{margin-top:27px}.career .career-actions>.btn{margin-top:0}.copy-options{margin-top:16px}}
+    /* Signal vollständig erhalten, unabhängig vom Fensterformat. */
+    .hero:after{content:"";position:absolute;top:0;bottom:0;right:0;width:min(100%,1102.5px);background:linear-gradient(to right,#0d2033,transparent 35%);z-index:0;pointer-events:none}
+    @media(min-width:801px) and (max-width:1040px){.hero:after{width:min(100%,1035px)}}
+    @media(max-width:800px){.hero:after{display:none}}
+    .hero-photograph{left:auto;right:0;width:auto;max-width:100%;object-fit:contain;object-position:right center}
+    @media(max-width:800px){.hero-photograph{width:100%;aspect-ratio:1.5;object-fit:contain;object-position:center;height:auto;mask-image:none}}
   </style>
 </head>
 <body>
